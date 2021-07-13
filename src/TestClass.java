@@ -7,5 +7,9 @@ public class TestClass {
         int a=5;
         int b=4;
         System.out.println(a*b);
+        
+        int c = 20;
+        int d = 4;
+        System.out.println(c/d);
     }
 }
