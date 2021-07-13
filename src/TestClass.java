@@ -11,5 +11,9 @@ public class TestClass {
         int c = 20;
         int d = 4;
         System.out.println(c/d);
+
+        String Ad = "Hamdi Yazici";
+        System.out.println(Ad);
+
     }
 }
