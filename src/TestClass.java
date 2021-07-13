@@ -14,6 +14,9 @@ public class TestClass {
 
         String Ad = "Hamdi Yazici";
         System.out.println(Ad);
+        
+        String Sehir = "Istanbul";
+        System.out.println(Sehir);
 
     }
 }
